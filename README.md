@@ -5,5 +5,3 @@ Developing is not an easy task and as a developer we love to automate our work f
 3.drawing system
 4.Alan (the speaking system)
 5.To-do list.
-
-This project is built under NIT Surat hackathon.
